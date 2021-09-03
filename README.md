@@ -13,6 +13,11 @@ Socket.IO · React · Moment · Redux · Axios · Stripe · PWAs · Flutter · D
 WindowsOS · MacOS
 
 
+---
+
+<img align="left" alt="Shawn-Gay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shawn-Gay&show_icons=true&hide_border=true"
+
+
 <br />
 <br />
 
