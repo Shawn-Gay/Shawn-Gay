@@ -1,4 +1,4 @@
-### Hi! My name is Shawn Gay, [Shawn-Gay][website]
+### Hi! My name is Shawn Gay[website]
 
 ## I'm an ambitous learning, fullstack engineer!
 - I have fullstack expirence through freelancing
