@@ -1,4 +1,4 @@
-### Hi! My name is Shawn Gay[website]
+### Hi! My name is [Shawn Gay]
 
 ## I'm an ambitous learning, fullstack engineer!
 - I have fullstack expirence through freelancing
@@ -16,4 +16,4 @@ WindowsOS · MacOS
 <br />
 <br />
 
-[website]: https://shawn-gay.netlify.app/
+[Shawn Gay]: https://shawn-gay.netlify.app/
