@@ -15,7 +15,7 @@ WindowsOS · MacOS
 
 ---
 
-<img align="left" alt="Shawn-Gay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shawn-Gay&show_icons=true&hide_border=true"
+[![Shawn Gays's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawn-Gay)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
