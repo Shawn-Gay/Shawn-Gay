@@ -4,7 +4,7 @@
 - I have fullstack expirence through freelancing
 - I'm an acceptionally fast learning
 - Future Goals: 
-  - Create an open source npm that'll be useful to many! With thousands of downloads
+  - Create an open source npm that'll be useful to many! With thousands of downloads hopefully!
   - Be at a senior/lead position by the age of 26 :)
 
 ### Languages & Tools:
